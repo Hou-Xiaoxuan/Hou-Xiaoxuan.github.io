@@ -5,14 +5,14 @@ header-img: img/post-bg-desk.jpg
 email: Hou_Xiaoxuan@163.com
 description: "Every failure is leading towards success."
 keyword: "Hou_Xiaoxuan 侯晓轩"
-url: "http://hou_xiaoxuan.github.io/"          # your host, for absolute URL
+url: "http://hou-xiaoxuan.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Hou-Xiaoxuan/Hou-Xiaoxuan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Move！Move！Move！"
-sidebar-avatar: /img/About-LX.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Abaut-LX.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # # SNS settings
