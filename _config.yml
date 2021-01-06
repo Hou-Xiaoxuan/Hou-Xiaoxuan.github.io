@@ -1,10 +1,10 @@
 # Site settings
 title: LX Blog
-SEOTitle: 侯晓轩的博客 | Xiao Blog
+SEOTitle: 林轩的博客 | Xiao Blog
 header-img: img/post-bg-desk.jpg
 email: Hou_Xiaoxuan@163.com
 description: "Every failure is leading towards success."
-keyword: "Hou_Xiaoxuan Lin_Xuan 林轩"
+keyword: "Lin_Xuan 林轩"
 url: "http://hou-xiaoxuan.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Hou-Xiaoxuan/Hou-Xiaoxuan.github.io.git" # you code repository
