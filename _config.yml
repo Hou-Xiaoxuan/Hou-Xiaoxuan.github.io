@@ -69,7 +69,7 @@ gitalk:
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
-# # 统计 
+# # 统计
 
 # # Analytics settings
 # # Baidu Analytics
@@ -95,19 +95,19 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-#     {
-#         title: "WY",
-#         href: "http://zhengwuyang.com"
-#     },{
-#         title: "简书·BY",
-#         href: "http://www.jianshu.com/u/e71990ada2fd"
-#     },{
-#         title: "Apple",
-#         href: "https://apple.com"
-#     },{
-#         title: "Apple Developer",
-#         href: "https://developer.apple.com/"
-#     }
-]
+# # Friends
+# friends: [
+# #     {
+# #         title: "WY",
+# #         href: "http://zhengwuyang.com"
+# #     },{
+# #         title: "简书·BY",
+# #         href: "http://www.jianshu.com/u/e71990ada2fd"
+# #     },{
+# #         title: "Apple",
+# #         href: "https://apple.com"
+# #     },{
+# #         title: "Apple Developer",
+# #         href: "https://developer.apple.com/"
+# #     }
+# ]
