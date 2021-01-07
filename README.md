@@ -1,1 +1,1 @@
-*感谢qiubaiying在搭建博客过程中的帮助* 
+*感谢[qiubaiying](https://github.com/qiubaiying)在搭建博客过程中的帮助* 
