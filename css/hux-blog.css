@@ -78,7 +78,7 @@
   position: relative;
   list-style: none;
   height: auto;
-  overflow: hidden;
+  overflow: visible;
   padding-left: 0px;
   padding-right: 5px;
   text-indent: 0;
@@ -94,7 +94,7 @@
   vertical-align: middle;
   height: 30px;
   line-height: 30px;
-  overflow: hidden;
+  overflow: visible;
   text-decoration: none;
   white-space: nowrap;
   text-overflow: ellipsis;
