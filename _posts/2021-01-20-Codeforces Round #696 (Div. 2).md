@@ -4,7 +4,7 @@ title:      "Codeforces Round #696 (Div. 2) 题解"
 subtitle:   日常垫底掉分
 date:       2021-01-20
 author:     Lin_Xuan
-header-img: "img\post-Note-Head-空への距離 banishment.jpg"
+header-img: "img/post-Note-Head-空への距離 banishment.jpg"
 catalog: true
 tags:
    - ACM
