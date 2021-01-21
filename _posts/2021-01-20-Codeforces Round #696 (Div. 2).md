@@ -144,7 +144,7 @@ int main()
 
 &emsp;&emsp;B开始读错题了啊，以为是质因子的最小差大于d，还打表找规律，上了ST表。差点用上线段树……太难了！
 
-## [Array Destruction](https://codeforces.com/contest/1474/problem/C)
+## [C：Array Destruction](https://codeforces.com/contest/1474/problem/C)
 
 ### 题目大意
 
