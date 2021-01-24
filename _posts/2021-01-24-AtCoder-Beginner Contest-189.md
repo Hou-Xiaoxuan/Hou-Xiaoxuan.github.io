@@ -182,21 +182,21 @@ $$
    0 &  1 &  0 \\
    -1 &  0 &  0 \\
    0 &  0 &  1
- \end{bmatrix} \tag{1}
+ \end{bmatrix} \tag{2}
 $$
 $$
 \begin{bmatrix}
    -1 &  0 &  0 \\
    0 &  1 &  0 \\
    2p &  0 &  1
- \end{bmatrix} \tag{1}
+ \end{bmatrix} \tag{3}
 $$
 $$
 \begin{bmatrix}
    1 &  0 &  0 \\
    0 &  -1 &  0 \\
    0 &  2p &  1
- \end{bmatrix} \tag{1}
+ \end{bmatrix} \tag{4}
 $$
 
 ### 代码：
