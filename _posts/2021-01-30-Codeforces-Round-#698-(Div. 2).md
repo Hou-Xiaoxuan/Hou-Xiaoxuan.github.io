@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Codeforces Round \#698 (Div. 2) 题解 #标题
+title:      "Codeforces Round #698 (Div. 2) 题解" #标题
 subtitle:   有点挑战的感觉真好 #副标题
 date:       2021-01-30 #日期
 author:     Lin_Xuan
