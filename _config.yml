@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 轩～博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Hou Xiaoxuan
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://Hou-Xiaoxuan.github.io
+url: https://blog.houxiaoxuan.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,8 +96,20 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus
 
+# for cactus theme
+theme_config:
+  colorscheme: light
+  nav:
+    home: /
+    about: /about/
+    articles: /archives/
+    GitHub: https://github.com/Hou-Xiaoxuan
+  social_links:
+    # must have key to `social_links` item key to keep default config empty
+  mathjax:
+    enabled: true
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
