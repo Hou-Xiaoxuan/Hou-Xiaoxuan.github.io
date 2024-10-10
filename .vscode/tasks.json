@@ -1,0 +1,20 @@
+{
+    // pnpm hexo generate
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "hexo generate",
+            "type": "shell",
+            "command": "pnpm",
+            "args": [
+                "hexo",
+                "generate"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+    ]
+}

@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2024-10-10
 ---
 <!-- 测试 letax 启用 -->
 $$
