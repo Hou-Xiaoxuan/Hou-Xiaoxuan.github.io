@@ -1,7 +1,9 @@
 ---
 title: HTTP的流式传输&多路复用
 tags: 网络, 八股
+date: 2024-10-31 01:47:27
 ---
+
 
 ## 背景
 
@@ -334,7 +336,9 @@ func readResponse(conn net.Conn) {
 }
 ```
 
+# 多路复用
 
+*未完待续*
 
 
 ---
@@ -347,7 +351,7 @@ Go 的 `http/net` 存在一些问题。以上面处理 POST 请求的代码为�
 
 `ResponseWriter.Write`的文档的警告 HTTP/1.1 版本的服务端必须在调用`Write`方法前读取全部的 body 数据：
 
-> > go version: 1.23.2
+> // go version: 1.23.2
 >
 > Depending on the HTTP protocol version and the client, calling Write or WriteHeader may prevent future reads on the Request.Body. For HTTP/1.x requests, handlers should read any needed request body data before writing the response. Once the  headers have been flushed (due to either an explicit Flusher.Flush call or writing enough data to trigger a flush), the request body may be unavailable.
 
